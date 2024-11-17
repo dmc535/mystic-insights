@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="16" cy="16" r="16" fill="#4C1D95"/>
+  
+  <!-- Eye shape -->
+  <ellipse cx="16" cy="16" rx="12" ry="8" fill="#8B5CF6"/>
+  
+  <!-- Pupil -->
+  <circle cx="16" cy="16" r="4" fill="#F5D0FE"/>
+  <circle cx="16" cy="16" r="2" fill="#4C1D95"/>
+  
+  <!-- Decorative lines -->
+  <path d="M2 16C2 16 8 6 16 6C24 6 30 16 30 16" stroke="#F5D0FE" stroke-width="1.5"/>
+  <path d="M2 16C2 16 8 26 16 26C24 26 30 16 30 16" stroke="#F5D0FE" stroke-width="1.5"/>
+</svg>
